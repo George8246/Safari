@@ -1,0 +1,146 @@
+body
+{
+
+    background-image: url("WhatsApp Image 2021-05-29 at 5.37.00 AM.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-color: hsl(218, 28%, 13%);
+    color: hsl(176, 68%, 64%);
+    height: 500px;
+    border-image-width: 20px;
+}
+.topnav {
+    background-color: hsl(217, 28%, 15%);
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.current_Page
+{
+    color: black !important;
+    background-color: #ddd;
+}
+a
+{
+    color: white;
+}
+
+a:hover
+{
+    color: hsl(198, 60%, 50%);
+}
+div
+{
+    padding-bottom: 10px;
+}
+button
+{
+    margin: 10px;
+    width: 150px;
+}
+.card
+{
+    text-align: right;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 20px 20px 100px 0px;
+    background-color: hsl(216, 53%, 9%);
+    color: white;
+}
+label
+{
+    line-height: 30px;
+}
+select
+{
+    width: 160px;
+    text-align: center;
+}
+.input-group-field
+{
+    width: 130px;
+    text-align: center;
+}
+
+dl
+{
+    padding: 10px;
+    width: 360px;
+}
+
+img
+{
+
+    max-height: 300px;
+    padding-right: 15px;
+    margin-left: 40px;
+    margin-top: 180px;
+    margin-bottom: 60px;
+}
+span
+{
+    font-size: xxx-large;
+    text-align: center;
+}
+
+#destinations
+{
+    font-size: 20px;
+    text-align: center;
+}
+.row
+{
+    font-size: 15px;
+}
+
+.container
+{
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+footer
+ {
+
+     padding-top: 15px;
+     text-align: right;
+     background-color: hsl(216, 53%, 9%) ;
+     color: #f2f2f2;
+ }
+.footer-header,section
+{
+    padding-right:20px;
+    margin-right: 20px;
+}
+footer h1
+{
+    font-size: 30px;
+    color: #f2f2f2 ;
+}
+footer dl
+{
+    padding: 15px;
+    margin: 2px;
+    width: 300px;
+}
+footer dt
+{
+    font-size: 14px;
+    padding: 5px;
+}
